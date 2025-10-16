@@ -1,17 +1,19 @@
-🛒 Amazon Product Data Scraper (Python)
+#  🛒 Amazon Product Data Scraper (Python)
 
 This project focuses on scraping and analyzing product data from Amazon India using Python.
 It walks through the complete process of extracting product details like title, price, rating, reviews, and availability and saving the data for further analysis.
 
+---
 
-Project Overview
+##  Project Overview
 
 The scraper uses BeautifulSoup and Requests to fetch HTML content from Amazon search results, and Pandas to organize and export the data.
 
+---
 
-Main Objectives of the Project
+##  Main Objectives of the Project
 
-1️⃣ Data Extraction
+1️⃣ **Data Extraction**
 
 ● Fetch product links from Amazon search result pages.
 
@@ -31,7 +33,7 @@ Main Objectives of the Project
 
 
 
-2️⃣ Data Storage
+2️⃣ **Data Storage**
 
 Save the extracted data into structured formats:
 
@@ -40,15 +42,16 @@ CSV file: amazon_data.csv
 Excel file: amazon_data.xlsx
 
 
-3️⃣ Customization
+3️⃣ **Customization**
 
 Easily modify the scraper for any product search query on Amazon.
 Update the User-Agent to avoid request blocking.
 
 
+---
 
 
-Key Learnings
+##  Key Learnings
 
 ● Strengthened understanding of web scraping workflows with Python.
 
@@ -61,9 +64,10 @@ Key Learnings
 ● Practiced exporting structured data into CSV and Excel.
 
 
+---
 
 
-🛠️ Tools & Technologies
+##  🛠️ Tools & Technologies
 
 ‣ Language: Python 3.x
 
@@ -72,10 +76,12 @@ Key Learnings
 ‣ Focus Areas: Web Scraping, Data Cleaning, Data Export
 
 
+---
 
-🚀 How to Use
+
+##  🚀 How to Use
 1. Clone the Repository
-git clone https://github.com/gsthendaarnika/amazon-web-scraper.git
+git clone [https://github.com/gsthendaarnika/Amazon-product-Scraper]
 cd amazon-web-scraper
 
 
@@ -105,7 +111,10 @@ amazon_data.xlsx
 Both files contain structured product data ready for analysis.
 
 
-Example Output:-
+---
+
+
+##  Example Output:-
 
 | title                   | price | rating             | reviews       | availability |
 | ----------------------- | ----- | ------------------ | ------------- | ------------ |
@@ -113,7 +122,12 @@ Example Output:-
 | MARS Creamy Lip Set     | ₹249  | 4.1 out of 5 stars | 978 ratings   | In stock     |
 
 
-Connect with Me
+
+---
+
+
+
+##  Connect with Me
 If you liked this project, feel free to connect with me on LinkedIn or check out my other projects!
 
 Always open to feedback and collaboration 👩‍💻✨
