@@ -1,4 +1,4 @@
-#  🛒 Amazon Product Data Scraper (Python)
+#  Amazon Product Data Scraper (Python)
 
 This project focuses on scraping and analyzing product data from Amazon India using Python.
 It walks through the complete process of extracting product details like title, price, rating, reviews, and availability and saving the data for further analysis.
@@ -67,7 +67,7 @@ Update the User-Agent to avoid request blocking.
 ---
 
 
-##  🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ‣ Language: Python 3.x
 
@@ -79,7 +79,7 @@ Update the User-Agent to avoid request blocking.
 ---
 
 
-##  🚀 How to Use
+##  How to Use
 1. Clone the Repository
 git clone [https://github.com/gsthendaarnika/Amazon-product-Scraper]
 cd amazon-web-scraper
